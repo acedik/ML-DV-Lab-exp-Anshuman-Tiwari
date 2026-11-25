@@ -1,0 +1,15 @@
+Country,Code,Gold,Silver,Bronze,Continent,Total
+United States,USA,40,44,42,North America,126
+China,CHN,40,27,24,Asia,91
+Japan,JPN,20,12,13,Asia,45
+Australia,AUS,18,19,16,Oceania,53
+France,FRA,16,26,22,Europe,64
+Netherlands,NLD,15,7,12,Europe,34
+Great Britain,GBR,14,22,29,Europe,65
+South Korea,KOR,13,9,10,Asia,32
+Italy,ITA,12,13,15,Europe,40
+Germany,DEU,12,13,8,Europe,33
+Canada,CAN,9,7,11,North America,27
+Brazil,BRA,3,7,10,South America,20
+Spain,ESP,5,4,9,Europe,18
+India,IND,0,1,5,Asia,6

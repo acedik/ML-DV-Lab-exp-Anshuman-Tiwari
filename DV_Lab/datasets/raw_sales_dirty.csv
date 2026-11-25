@@ -1,0 +1,69 @@
+ Order Id ,Cust Name,Order_Dt,Region_Name,Product Category ,unit_price,Qty,Disc %
+INV-2101,Aarav Sharma,2024-03-01, South,Technology,909.81,6.0,15.0
+INV-2102,Diya Nair,2024-07-06,WEST,furniture,$310.24,9.0,10.0
+INV-2103,Kabir Malhotra,26/09/2024,  south ,furniture,652.09,5.0,5.0
+INV-2104,,2024-04-26,West ,TECHNOLOGY,$914.83,4.0,20.0
+INV-2105,Kabir Malhotra,2024-09-23,  south ,  Furniture ,705.35,10.0,0.0
+INV-2106,Riya Chatterjee,02/03/2024,WEST,Technology,$911.53,,0.0
+INV-2107,Nova Health Systems,2024-11-17,east,  Furniture ,900.08,7.0,5.0
+INV-2108,Kabir Malhotra,2024-10-23, South,  Furniture ,$635.12,8.0,10.0
+INV-2109,Riya Chatterjee,05/05/2024,WEST,Technology,194.16,7.0,5.0
+INV-2110,Aarav Sharma,2024-11-11,north,Office Supplies,$485.06,7.0,20.0
+INV-2111,Nova Health Systems,2024-05-04,east,furniture,124.78,10.0,10.0
+INV-2112,Vihaan Joshi,01/04/2024,NORTH ,Office Supplies,$726.37,4.0,
+INV-2113,Apex Tech Solutions,2024-04-22,West ,Technology,326.02,4.0,20.0
+INV-2114,Aarav Sharma,2024-01-07,NORTH ,  Furniture ,$907.99,7.0,5.0
+INV-2115,Riya Chatterjee,02/08/2024,N/A,Office Supplies,544.83,3.0,0.0
+INV-2116,Nova Health Systems,2024-01-26,east,TECHNOLOGY,$471.49,3.0,0.0
+INV-2117,Apex Tech Solutions,2024-09-13, South,Technology,686.29,7.0,10.0
+INV-2118,Kabir Malhotra,26/01/2024,east,Technology,$726.43,,0.0
+INV-2119,Apex Tech Solutions,2024-03-22,  south ,  Furniture ,211.13,1.0,15.0
+INV-2120,Riya Chatterjee,2024-01-01,  south ,  Furniture ,$436.75,9.0,0.0
+INV-2121,Kabir Malhotra,22/07/2024,east,Office Supplies,149.82,10.0,10.0
+INV-2122,Aarav Sharma,2024-11-26,  south ,Office Supplies,$762.48,3.0,20.0
+INV-2123,Aarav Sharma,2024-11-26,north,Technology,153.89,5.0,0.0
+INV-2124,Vihaan Joshi,23/10/2024,north,Technology,$613.63,8.0,10.0
+INV-2125,,2024-04-27,  south ,Office Supplies,172.31,8.0,20.0
+INV-2126,Nova Health Systems,2024-10-21, South,furniture,$455.81,2.0,5.0
+INV-2127,Nova Health Systems,20/04/2024,  south ,Office Supplies,710.84,5.0,10.0
+INV-2128,Apex Tech Solutions,2024-07-14, South,TECHNOLOGY,$115.90,5.0,5.0
+INV-2129,Vihaan Joshi,2024-10-08, South,Office Supplies,239.08,2.0,
+INV-2130,Vihaan Joshi,15/09/2024,NORTH ,furniture,$831.79,4.0,10.0
+INV-2131,Riya Chatterjee,2024-09-28,West ,Office Supplies,827.96,9.0,20.0
+INV-2132,Aarav Sharma,2024-04-20,WEST,TECHNOLOGY,$640.95,10.0,15.0
+INV-2133,Aarav Sharma,29/07/2024, South,TECHNOLOGY,81.93,,5.0
+INV-2134,Kabir Malhotra,2024-04-10,West ,Technology,$306.50,9.0,10.0
+INV-2135,Vihaan Joshi,2024-01-26,north,Technology,698.39,6.0,5.0
+INV-2136,Apex Tech Solutions,11/01/2024,east,  Furniture ,$570.87,6.0,10.0
+INV-2137,Vihaan Joshi,2024-02-16,  south ,  Furniture ,492.71,5.0,20.0
+INV-2138,Apex Tech Solutions,2024-09-11,east,furniture,$893.51,6.0,5.0
+INV-2139,Riya Chatterjee,11/05/2024,  south ,  Furniture ,442.82,7.0,5.0
+INV-2140,Zenith Retail Corp,2024-11-09, South,furniture,$412.99,9.0,5.0
+INV-2141,Nova Health Systems,2024-05-03,north,furniture,526.19,3.0,5.0
+INV-2142,Diya Nair,19/10/2024,N/A,Office Supplies,$308.55,3.0,0.0
+INV-2143,Vihaan Joshi,2024-07-14,West ,Technology,120.97,1.0,15.0
+INV-2144,Diya Nair,2024-10-11, South,TECHNOLOGY,$504.91,8.0,15.0
+INV-2145,Aarav Sharma,04/05/2024,West ,TECHNOLOGY,244.74,6.0,20.0
+INV-2146,Riya Chatterjee,2024-08-07,  south ,furniture,$289.86,7.0,0.0
+INV-2147,Kabir Malhotra,2024-04-28,NORTH ,  Furniture ,364.22,3.0,
+INV-2148,Zenith Retail Corp,08/03/2024,  south ,TECHNOLOGY,$847.75,10.0,15.0
+INV-2149,Riya Chatterjee,2024-03-28,West ,TECHNOLOGY,379.39,4.0,10.0
+INV-2150,Aarav Sharma,2024-11-08,West ,Office Supplies,$554.90,1.0,5.0
+INV-2151,Zenith Retail Corp,13/03/2024,east,  Furniture ,770.32,7.0,20.0
+INV-2152,Vihaan Joshi,2024-11-29,  south ,Technology,$909.12,,15.0
+INV-2153,Kabir Malhotra,2024-07-20,  south ,Technology,819.98,4.0,20.0
+INV-2154,Diya Nair,28/04/2024,east,TECHNOLOGY,$552.23,10.0,0.0
+INV-2155,Diya Nair,2024-03-11, South,  Furniture ,426.12,5.0,15.0
+INV-2156,Aarav Sharma,2024-08-10,WEST,Office Supplies,$676.56,9.0,15.0
+INV-2157,Zenith Retail Corp,06/02/2024,WEST,  Furniture ,558.41,10.0,5.0
+INV-2158,Vihaan Joshi,2024-04-26,West ,TECHNOLOGY,$780.33,6.0,20.0
+INV-2159,Vihaan Joshi,2024-11-09, South,  Furniture ,515.23,6.0,15.0
+INV-2160,Vihaan Joshi,09/02/2024,NORTH ,TECHNOLOGY,$785.54,7.0,5.0
+INV-2161,Nova Health Systems,2024-11-18,NORTH ,furniture,717.69,6.0,0.0
+INV-2162,Vihaan Joshi,2024-07-15,east,Office Supplies,$169.82,8.0,15.0
+INV-2163,Riya Chatterjee,09/09/2024,east,  Furniture ,748.8,5.0,0.0
+INV-2164,Kabir Malhotra,2024-04-25,north,  Furniture ,$68.79,8.0,0.0
+INV-2104,,2024-04-26,West ,TECHNOLOGY,$914.83,4.0,20.0
+INV-2111,Nova Health Systems,2024-05-04,east,furniture,124.78,10.0,10.0
+INV-2122,Aarav Sharma,2024-11-26,  south ,Office Supplies,$762.48,3.0,20.0
+INV-2136,Apex Tech Solutions,11/01/2024,east,  Furniture ,$570.87,6.0,10.0
